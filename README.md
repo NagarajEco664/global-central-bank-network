@@ -8,3 +8,5 @@ Standardized bibliometric network dataset mapping collaborative research ties an
 * `institutional_sizes.clu`: Degree-centrality-based node sizing partition.
  
 
+
+![Global Central Banks Network](CENTRAL%20BANKS.jpg)
