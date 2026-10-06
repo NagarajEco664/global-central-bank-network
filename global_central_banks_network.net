@@ -1,0 +1,47 @@
+*Vertices 23
+1 "Australian National University"
+2 "Bank of Canada"
+3 "Bank of England"
+4 "Bank of Japan"
+5 "Brookings Institution"
+6 "CEPR (Centre for Economic Policy Research)"
+7 "Delhi School of Economics"
+8 "European Central Bank"
+9 "Federal Reserve Board"
+10 "Harvard University"
+11 "IMF (International Monetary Fund)"
+12 "Indian Statistical Institute"
+13 "Institute for Economic Growth"
+14 "London School of Economics"
+15 "MIT Department of Economics"
+16 "NBER (National Bureau of Economic Research)"
+17 "Reserve Bank of Australia"
+18 "Reserve Bank of India"
+19 "University of Cambridge"
+20 "University of Oxford"
+21 "University of Tokyo"
+22 "University of Toronto"
+23 "World Bank Group"
+*Arcs
+9 10 42
+9 15 38
+8 14 35
+8 20 29
+3 14 45
+3 19 31
+18 7 24
+18 12 19
+4 21 22
+2 22 26
+17 1 28
+9 16 85
+8 6 64
+3 16 40
+11 23 95
+11 5 50
+9 11 70
+2 16 20
+10 16 110
+14 6 75
+15 16 95
+7 13 28
